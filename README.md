@@ -1,0 +1,1 @@
+This project analyzes Spotify playlist history, including song titles, artists, and timestamps. The goal is to uncover listening patterns, trends, and insights from user data. The dataset can be used for music recommendations, time-based analysis, or artist popularity tracking.
